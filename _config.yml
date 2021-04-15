@@ -76,3 +76,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://knowledgeable-sycamore-83bb6.netlify.app'
